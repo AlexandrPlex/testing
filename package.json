@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aplex",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jest": "^23.4.2",
+    "mocha": "^5.2.0",
+    "protractor": "^5.4.0",
+    "puppeteer": "^1.6.2",
+    "selenium-webdriver": "3.6.0",
+    "webdriver-manager": "^12.1.0"
+  }
+}
